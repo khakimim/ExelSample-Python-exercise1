@@ -1,9 +1,6 @@
 # ExelSample-Python-exercise1
 How to work with Excel by Python as a beginner
 
-# ExelSample-Python-exercise1
-How to work with Excel by Python as a beginner
-
 1. import openpyxl as xl                       ----->"import excel to project
 
 2. wb = xl.load_workbook("file.xlsx")          ----->"load the file in project"
